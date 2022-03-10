@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [benjacksonse.com](benjacksonse.com)
 
-- 📝 I regularly write blogs on [benjacksonse.com/blog](benjacksonse.com/blog)
+- 📝 I will soon be back to writing blogs on [benjacksonse.com/blog](benjacksonse.com/blog)
 
 - 📫 How to reach me **benjacksonse@gmail.com**
 
