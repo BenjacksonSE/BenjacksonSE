@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben Jackson!</h1>
 <h3 align="center">A passionate full stack software engineer with a focus on web design and React.</h3>
 
-- 🔭 I’m currently working on **My Maps**
+- 🔭 I’m currently working on **blog-app** to give me another place to post my technical blog posts, check it out soon!
 
-- 👨‍💻 All of my projects are available at [benjacksonse.com](benjacksonse.com)
+- 👨‍💻 My portfolio is available at [benjacksonse.com](benjacksonse.com). (It is down for the day while I make some edits, will be back up soon!)
 
 - 📝 I will soon be back to writing blogs on [benjacksonse.com/blog](benjacksonse.com/blog)
 
