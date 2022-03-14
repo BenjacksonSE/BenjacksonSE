@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **blog-app** to give me another place to post my technical blog posts, check it out soon!
 
-- 👨‍💻 My portfolio is available at [benjacksonse.com](https://benjacksonse.com/). (It is down for the day while I make some edits, will be back up soon!)
+- 👨‍💻 My portfolio is available at [benjacksonse.com](https://benjacksonse.com/).
 
 - 📝 I will soon be back to writing blogs on [benjacksonse.com/blog](https://benjacksonse.com/)
 
